@@ -21,6 +21,7 @@ namespace $NAMESPACE$&#xD;
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/Reformat/@EntryValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/Categories/=Imported_002023_002F04_002F2016/@EntryIndexedValue">Imported 23/04/2016</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/Categories/=Imported_002029_002E11_002E2017/@EntryIndexedValue">Imported 29.11.2017</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/CustomProperties/=Extension/@EntryIndexedValue">cs</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/CustomProperties/=FileName/@EntryIndexedValue">Migration</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/CustomProperties/=ValidateFileName/@EntryIndexedValue">False</s:String>
@@ -32,7 +33,7 @@ namespace $NAMESPACE$&#xD;
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/Field/=NAMESPACE/InitialRange/@EntryValue">-1</s:Int64>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/Field/=NAMESPACE/Order/@EntryValue">0</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/Field/=VERSION/@KeyIndexDefined">True</s:Boolean>
-	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/Field/=VERSION/Expression/@EntryValue">getCurrentTime("yyyyMMddHHmm")</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/Field/=VERSION/Expression/@EntryValue">getCurrentTime("yyyyMMddHHmmss")</s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/Field/=VERSION/InitialRange/@EntryValue">-1</s:Int64>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/Field/=VERSION/Order/@EntryValue">1</s:Int64>
 	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=3563EA60CB781A4FAE5F02B9D6B77BDE/Field/=CLASS/@KeyIndexDefined">True</s:Boolean>
